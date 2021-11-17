@@ -103,7 +103,7 @@ analytics:
 # Site Author
 author:
   name             : "Yukyong Kim"
-  avatar           :"/images/myImg.jpg"
+  avatar           : "/images/myImg.jpg"
   bio              : "Division of Basic Engineering, Sookmyung Women's University."
   location         : "Seoul, South Korea"
   email            : ykim.be@sookmyung.ac.kr
